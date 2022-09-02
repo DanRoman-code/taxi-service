@@ -28,8 +28,8 @@ python manage.py runserver
 
 ## Full access:
 
-* username: new_user
-* password: QAWS123QAWS
+* username: test_admin
+* password: 123QAWS123
 
 ## Demo
 
